@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConsumirContentProviderUsuario</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="status_usuario">
+        <item>Valido</item>
+        <item>No valido</item>
+    </string-array>
+
+</resources>
